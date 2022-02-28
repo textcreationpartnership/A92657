@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great preparation made in Holland, for the King of Scots, going into Scotland. Also the D. of Buckingham, M. Hamilton, and the E. of Newcastle, to be sent embassadors into Germany, Sweden, and Denmark; with the large promises of Col. Massey, and Ald. Bunce, to the foresaid King. Together, with a great fight at sea, between the English and French; where (after two days and nights dispute) the French Admiral (and 300 men) was taken, with 50 guns, 100 barrels of powder, and great store of ammunition.</title>
+            <author>T. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92657</idno>
+            <idno type="STC">Wing S163</idno>
+            <idno type="STC">Thomason E603_4</idno>
+            <idno type="STC">ESTC R205793</idno>
+            <idno type="EEBO-CITATION">99858754</idno>
+            <idno type="PROQUEST">99858754</idno>
+            <idno type="VID">165649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92657)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165649)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E603[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great preparation made in Holland, for the King of Scots, going into Scotland. Also the D. of Buckingham, M. Hamilton, and the E. of Newcastle, to be sent embassadors into Germany, Sweden, and Denmark; with the large promises of Col. Massey, and Ald. Bunce, to the foresaid King. Together, with a great fight at sea, between the English and French; where (after two days and nights dispute) the French Admiral (and 300 men) was taken, with 50 guns, 100 barrels of powder, and great store of ammunition.</title>
+                  <author>T. S.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: T.S.</note>
+                  <note>Annotation on Thomason copy: "June 12th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165649:1" rendition="simple:additions"/>
+            <p>The Great PREPARATION MADE IN HOLLAND, FOR The KING of SCOTS, <hi>GOING</hi> INTO SCOTLAND.</p>
+            <p>ALSO, The D. of Buckingham, M. Hamilton, and the E. of Newcaſtle, to be ſent Embaſſadors into Germany, Sweden, and Denmark; With the large promiſes of Col. <hi>Maſſey,</hi> and Ald. <hi>Bunce,</hi> to the foreſaid King.</p>
+            <p>Together, with a great Fight at Sea, between the <hi>Engliſh</hi> and <hi>French;</hi> where (after two days and nights diſpute) the <hi>French</hi> Admiral (and 300 men) was taken, with 50 Guns, 100 Barrels of Powder, and great ſtore of Ammunition.</p>
+            <p>
+               <add>June 12<hi rend="sup">th</hi>
+               </add>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert Wood.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165649:2"/>
+            <pb n="1" facs="tcp:165649:2"/>
+            <head>The Preparation made for the King of Scots going into <hi>Scotland;</hi> and what number of men, and ſhips are to attend him in his Voyage.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ours of the ſecond inſtant I have receiv'd, and being bound to make retalliation, I preſume to preſent you with theſe enſu<g ref="char:EOLhyphen"/>ing lines; But before they will have the happineſs to kiſs your hand (I fear) the King of <hi>Scots</hi> (the chief ſubject of my diſcours) will be landed there; being forced thither through meer neceſſity, not tranſported with affection: and though he hath no other way to turn himſelf but that, yet had the news of their execution of <hi>Montroſs</hi> come but a little ſooner, he might perhaps have taken other re<g ref="char:EOLhyphen"/>ſolutions; at the firſt hearing of it he was much a<g ref="char:EOLhyphen"/>maz'd, and 'tis a wonder he will truſt himſelf with them (who have executed his General, a man ſigna<g ref="char:EOLhyphen"/>lized with ſeveral marks of his ſpecial favour, and one who acted by his Commiſſion) ſpecially when he brings them no greater aſſiſtance, for attaining their ends upon you; but they muſt make their own way to it both for themſelves and him. His arrival there will preſently begin a War, which may poſe the beſt fore-ſight to tell when it will end; though perhaps it
+<pb n="2" facs="tcp:165649:3"/>may not be hard to gueſs what Cataſtrophe it may cauſe. There are again Embaſſadors to be ſent, more honourable then the former; <hi>Hamilton</hi> is to go into <hi>Sweden; Buckingham</hi> into <hi>Germany;</hi> and <hi>Newcaſtle</hi> into <hi>Denmark:</hi> They ſay, the <hi>Scots</hi> Commiſſioners had rather the errand had been only for money; for they in <hi>Scotland</hi> can better tell how to multiply men than furniſh treaſure. Their kinde of Merchants uſe not to raiſe great eſtates; and they cannot drive ſo good a trade of Begging any where, as they have done here<g ref="char:EOLhyphen"/>tofore in <hi>England:</hi> yet the wiſeſt here, think theſe Legations are rather to furniſh them with honourable pretences (to be abſent from <hi>Scotland</hi> till they may get better aſſurance they may be welcome thither) than out of hope to procure any money there. The <hi>Dane</hi> hath no money (not having yet recovered out of the debts of his father) and (if there were) the States there have uſes for it nearer home. The State of <hi>Sweden</hi> is alſo exhauſted; and (particular men have ſufficiently raked poor <hi>Germany;</hi> who) though they may ſpeak big (which they do naturally) muſt be content to do nothing; 'twill be well for them if they keep their new acquieſs in <hi>Germany;</hi> little aſſurance can be had of Treaties, let them look to the <hi>Ruſſian</hi>—And for <hi>Germany,</hi> poverty, jealouſie and uncertainty how that peace may ſettle, will keep off thoſe Princes from ſuch Contributions as he will have need of: But this being impertinent, I ſhall proceed to intelligence. After the King of <hi>Scots</hi> had been two days at <hi>Hounſlaer-dyke</hi> (moſt of which time he ſpent in conference with the Prince of <hi>Orange</hi>) he went back to <hi>Breda,</hi> and took order for a preſent departure: He had ſome ſmall ſums to pay his Chaplains, who are to ſtay behinde, and
+<pb n="3" facs="tcp:165649:3"/>muſt not paſſe over into that gude land; [leſt they ſhould prophane it.] Some money is alſo given to 150 poor Officers, who are to (go with him and) ride in a Troop, till they can raiſe men for them to com<g ref="char:EOLhyphen"/>mand. He is now come back again to <hi>Hounſlaer-dyke,</hi> and theſe two or three days, all the baggage for him<g ref="char:EOLhyphen"/>ſelf (and thoſe who go with him) is ſent to be ſhipt at <hi>Ter-hay</hi> and <hi>Schevelinge;</hi> and now he ſtays for nothing but the winde, as ſoon as that ſerves he will be gone, if your ſhips come not upon the Coaſt in the mean time to hinder him, which they extreamly fear. The Ships [his Convoy] are ſaid to be of <hi>Zealand,</hi> which Province is deſperatly your enemy, and it is wondred here that you are not more ſenſible of it, and make them be ſo too; 'tis in your power to change their temper: They are pitifully enſlaved to the Prince of <hi>Orange,</hi> whoſe intereſt they have with greateſt zeal caried on, and fulleſt oppoſition to <hi>Holland;</hi> who on<g ref="char:EOLhyphen"/>ly have ſeen their danger, and laid a foundation for re<g ref="char:EOLhyphen"/>covery of the Liberty of the United Provinces, which was ready to be loſt to the will of <hi>their Servant,</hi> whom they had at ſeverall times given ſo much power, out of gratitude, to the merit of the two firſt of that Fa<g ref="char:EOLhyphen"/>mily (without reſpect had to the event, in caſe there ſhould not be in them a ſucceſſion of probity and vir<g ref="char:EOLhyphen"/>tue) as made him forget his own condition, and able to change theirs; which they would have found before this time, if the troubles in <hi>England</hi> had not made that aſſiſtance a lye, which that Marriage was made to pro<g ref="char:EOLhyphen"/>cure. Since my coming hither, I have had opportunity to diſcours with very knowing men, who freely con<g ref="char:EOLhyphen"/>feſs they were well nigh loſt, and till the buſineſs of the Caſſation be ſetled, they are not ſure they are ſafe.
+<pb n="4" facs="tcp:165649:4"/>They ſay they had not made their peace with <hi>Spain,</hi> but that they might be free from the power of their own Militia, and let their General know, That he was not abſolutely neceſſary: that they caſhier the ſtrangers (not out of diſ-reſpect to them, they having ſerved faithfully, but) becauſe they had given the Prince a greater power in them, than in the <hi>Dutch:</hi> That they are ſtill in a Paroxiſm, and expect a <hi>Cryſis</hi> at the next meeting of the Provincial-States. They yet hope, notwithſtanding the Princes anomalous peram<g ref="char:EOLhyphen"/>bulation of the Cities of <hi>Holland,</hi> they will ſtick to their intereſt, and purſue the Caſſation: and that if the reſt of the Provinces will be ſlaves, they will not. If the bundle of Arrows muſt be unbound, they of <hi>Holland</hi> know into what quiver to put their arrows. By this means you may be ſure the King of <hi>Scots</hi> will have no aſſiſtance hence, that may be proportionable to his wants; and it is obſervable, that who'ever have a minde to aſſiſt him, become preſently unable to help themſelves; of which <hi>France,</hi> and the Prince of <hi>Orange,</hi> are two notable examples. Yeſterday, the <hi>Scots</hi> King came to the <hi>Hague,</hi> to take leave of the Princeſs Dowa<g ref="char:EOLhyphen"/>ger of <hi>Orange,</hi> who hath a young Daughter, to whom (ſome ſay) the <hi>Scots</hi> Commiſſioners are content to match him; but the uncertain condition of the Prince of <hi>Orange,</hi> will cool that proſecution: Beſides, here are ſome ſay, <hi>Argyle</hi> hath a daughter to whom he muſt be married, a Gentlewoman of rare parts and education; and that this will unite all intereſts there, and make up the breaches. But it is the opinion of many juditi<g ref="char:EOLhyphen"/>ous men, that Princes affections are not conciliated by pawning of children, nor doth it always cement, but ſometimes widens differences. The cloſe Treators (ſo
+<pb n="5" facs="tcp:165649:4"/>called here) Collonel <hi>Maſſey,</hi> Alderman <hi>Bunce,</hi> Collo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el <hi>Graves,</hi> and <hi>Titus,</hi> make the King of <hi>Scots</hi> believe, that they keep the key of the <hi>London</hi> Treaſury, and that they will be able to furniſh all his wants: And without doubt, they hold a conſtant correſpondence there, but not with ſo great effects; for though there are great numbers—that their money and they are ſoon parted, yet they curſe your High Court; and by the ſenſe of their danger from it, have learned ſome more wit, than to loſe their money and hazard their necks at once: you cannot look too ſtrictly after their ſecret correſpondence, nor proceed too ſeverely upon diſcovery. There hath been lately Commiſſions given out for the raiſing of Strangers for the K. of <hi>Scotland;</hi> one <hi>Harder</hi> hath Commiſſion for two Regiments, and <hi>Carp</hi> the <hi>Landgravinne</hi> of <hi>Heſſen's</hi> General, is alſo enga<g ref="char:EOLhyphen"/>ged; but there is yet no apparent money. I hear the <hi>Scots</hi> have no minde Strangers ſhould be brought into <hi>Scotland,</hi> leſt their King ſhould make uſe of them, to put himſelf out of their Pupillage, and ſo free himſelf of the <hi>Breda</hi> ſhackles; therefore they adviſe, that they may be ready to land in <hi>England,</hi> when they have once gotten up their party there into Inſurrections. And indeed, if you let ſlip your preſent opportunity, and that your affairs ſhould decline, you would be ſure to have all the <hi>colluvies</hi> and <hi>ſcum</hi> of <hi>Germany</hi> upon you: but do your work well this year, and you have done it for ever. We doubt not but you ſee your point, be<g ref="char:EOLhyphen"/>cauſe all men elſe do; and if you ſhould not purſue it, you ſhould be leſs happy then you have been: Your reputation grows abroad, ſtarve it not; you have not many friends; but moſt begin to think you con<g ref="char:EOLhyphen"/>ſiderable.</p>
+            <pb n="6" facs="tcp:165649:5"/>
+            <p> The 9th inſtant the King of <hi>Scots</hi> was at <hi>Hounſlaer-dyke,</hi> where the Prince of <hi>Orange</hi> came to take his leave of him, which being done, that evening he went to <hi>Schevelinge</hi> (whither was brought much baggage ye<g ref="char:EOLhyphen"/>ſterday) there to be embarqued in three great ſhips, riding (between <hi>Ter-hay</hi> and <hi>Scheveling</hi>) at anchor in open view, and are bound [they ſay at Court] for <hi>Scotland:</hi> There is a report, that ſome <hi>Daniſh</hi> and <hi>Swe<g ref="char:EOLhyphen"/>diſh</hi> ſhips ſhould be at Sea for his better convoy, but there is no certainty thereof. I am advertiz'd by a <hi>French</hi> Gentleman, who came the laſt night to this Town from <hi>Paris,</hi> That the King of <hi>Spain</hi> having gi<g ref="char:EOLhyphen"/>ven Commiſſions to two <hi>Engliſh</hi> Frigots (<hi>viz.</hi> the <hi>Hun<g ref="char:EOLhyphen"/>ter</hi> and <hi>Spie,</hi> one of 20, the other 16 guns) they ſail'd into the <hi>Mediterranean</hi> Sea, where the <hi>French</hi> Fleet be<g ref="char:EOLhyphen"/>ing accidentally diſperſed, they happened to encoun<g ref="char:EOLhyphen"/>ter with their Admiral, and between them began a very fierce and bloudy fight, which continued (off and on, one chaſing the other) two days and nights; in all which time, it was dubious to which ſide the vi<g ref="char:EOLhyphen"/>ctory would encline; but in the end, the <hi>Engliſh</hi> Fri<g ref="char:EOLhyphen"/>gots came up ſo cloſe to the <hi>French</hi> Admiral, that (Faſt<g ref="char:EOLhyphen"/>ning their grapling-irons) they preſently boorded him, who (ſeeing themſelves brought to ſuch a ſtrait) durſt not diſpute their decks, but immediatly threw down their weapons and cry'd for quarter, which was granted: There was in this ſhip (living and dead) 300 men, 50 guns, 60 barrels of powder, and great ſtore of Ammunition; all which they carried into <hi>Naples.</hi> This (Sir) for the preſent, be pleaſed to accept of, from the hands of him, who unfeignedly is</p>
+            <closer>
+               <signed>The humblest of your creatures: <hi>T. S.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
